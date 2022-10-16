@@ -1,4 +1,4 @@
 # ScriptBase
 > Simplest way to create python tools
 
-[docs](<https://github.com/xellu/scriptbase/wiki>)
+[ScriptBase docs](<https://github.com/xellu/scriptbase/wiki>)
