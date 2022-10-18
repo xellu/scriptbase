@@ -10,3 +10,6 @@ def get_int_input(text, fail_msg="Please enter a valid integer"):
         try: int(a)
         except: say(fail_msg)
         else: return int(a)
+
+def cls():
+    __init__()
