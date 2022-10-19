@@ -1,0 +1,5 @@
+{
+    "packages": ["base"],
+    "update_url": "https://raw.githubusercontent.com/xellu/scriptbase/main/scripts/Hello.py",
+    "display_name": "Hello" 
+}
