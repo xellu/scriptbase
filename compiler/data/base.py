@@ -1,6 +1,5 @@
 import os
 from colorama import Fore as c
-from discord import User
 import pyfiglet
 import json
 import requests
