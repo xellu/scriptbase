@@ -8,5 +8,4 @@
 
 ## TODO
 * fix script updating
-* add "hidden" option to metadata (script wont show up in selection menu)
 * make option to execute scripts on load
